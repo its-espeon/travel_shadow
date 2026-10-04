@@ -223,7 +223,7 @@ XAMPP/WAMP/LAMP
 
 Clone Repository
 
-git clone https://github.com/yourusername/travel-shadow.git
+git clone https://github.com/its-espeon/travel-shadow.git
 
 Create Database
 
